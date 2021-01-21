@@ -1,8 +1,7 @@
     # TP6 : Les servlets(chat)
-## Le noms des auteurs : 
+## Le nom de auteurs : 
 Shahrokh Abolhassani Bavili
 
-Seyed Saeid Hosseini
 ## Résumé du TP :
 Dans ce TP, nous voulons créer une application Web qui permet à deux personnes de discuter entre elles.
 Pour cela, nous utilisons Java EE et écrivons des codes avec des servlets et des fichiers jsp.
